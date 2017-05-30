@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\bin\Debug\P4Elevator.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\bin\Debug\P4Elevator.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\bin\Debug\P4Elevator.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\obj\Debug\P4Elevator.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\obj\Debug\P4Elevator.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P4Elevator\obj\Debug\P4Elevator.pdb
