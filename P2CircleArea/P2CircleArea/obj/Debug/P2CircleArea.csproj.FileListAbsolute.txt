@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\P2CircleArea\P2CircleArea\bin\Debug\P2CircleArea.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\P2CircleArea\P2CircleArea\bin\Debug\P2CircleArea.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\P2CircleArea\P2CircleArea\bin\Debug\P2CircleArea.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\P2CircleArea\P2CircleArea\obj\Debug\P2CircleArea.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\P2CircleArea\P2CircleArea\obj\Debug\P2CircleArea.pdb
