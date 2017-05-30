@@ -1,0 +1,5 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P3ExactSumOfRealNumbers\bin\Debug\P3ExactSumOfRealNumbers.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P3ExactSumOfRealNumbers\bin\Debug\P3ExactSumOfRealNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P3ExactSumOfRealNumbers\bin\Debug\P3ExactSumOfRealNumbers.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P3ExactSumOfRealNumbers\obj\Debug\P3ExactSumOfRealNumbers.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P3ExactSumOfRealNumbers\obj\Debug\P3ExactSumOfRealNumbers.pdb
