@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\bin\Debug\P9RefractorSpecialNumber.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\bin\Debug\P9RefractorSpecialNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\bin\Debug\P9RefractorSpecialNumber.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\obj\Debug\P9RefractorSpecialNumber.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\obj\Debug\P9RefractorSpecialNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P9RefractorSpecialNumber\obj\Debug\P9RefractorSpecialNumber.pdb

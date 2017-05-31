@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\bin\Debug\P6TriplesOfLatinNumber.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\bin\Debug\P6TriplesOfLatinNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\bin\Debug\P6TriplesOfLatinNumber.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\obj\Debug\P6TriplesOfLatinNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\obj\Debug\P6TriplesOfLatinNumber.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6TriplesOfLatinNumber\obj\Debug\P6TriplesOfLatinNumber.csprojResolveAssemblyReference.cache
