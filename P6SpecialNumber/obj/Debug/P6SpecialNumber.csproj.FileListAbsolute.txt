@@ -1,0 +1,6 @@
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\bin\Debug\P6SpecialNumber.exe.config
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\bin\Debug\P6SpecialNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\bin\Debug\P6SpecialNumber.pdb
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\obj\Debug\P6SpecialNumber.csprojResolveAssemblyReference.cache
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\obj\Debug\P6SpecialNumber.exe
+C:\Users\3L1t3300k\Documents\Visual Studio 2017\Projects\DataTypesAndVariables\DataTypesAndVariables\P6SpecialNumber\obj\Debug\P6SpecialNumber.pdb
